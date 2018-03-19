@@ -1,8 +1,6 @@
 ## This function gets a matrix and return a list with this functions
 ## set the matrix, get the matrix, set the inverse, get the inverse
 
-## Write a short comment describing this function
-
 makeCacheMatrix <- function(x = matrix()) {
         m_inv <- NULL
         set <- function(y) {
